@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SPT3_NEWSSS:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPT3_NEWSSS_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SPT3_NEWSSS/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SPT3_NEWSSS" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
